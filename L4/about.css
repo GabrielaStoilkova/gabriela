@@ -1,8 +1,10 @@
 .table {
     display: table;
     background-color:fuchsia;
-    margin-right 25px;
-    padding-top: 33px;
+    margin-right 5px;
+    padding-top: 3px;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
 }
 
 .table-cell {
@@ -15,7 +17,7 @@
 tr       { display: table-row }
 
 img {
-    border-radius: 60%;
+    border-radius: 10%;
     padding-left: 4px;
     padding-right: 5px;
     margin-top: 3px;
@@ -24,11 +26,6 @@ img {
 
 #photo {
     background-color:lightgray;
-
-ul {
-    list-style-type: none;
-    font-size: 36em;
-}
 
 #right {
     text-align: right;
@@ -40,8 +37,4 @@ ul {
     text-align: right;
     font-size: 36em;
     font-family:serif;
-}
-
-#left li {
-    margin-right: 44px;
 }
